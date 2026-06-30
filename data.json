@@ -413,7 +413,7 @@
       "specifications": {
         "engine": "Electric",
         "horsepower": 408,
-        "transmission": "9-speed Automatic",
+        "transmission": "Automatic",
         "drivetrain": "Front-Wheel Drive"
       },
       "image": "default-image.jpg"
@@ -595,7 +595,7 @@
       "specifications": {
         "engine": "Electric",
         "horsepower": 256,
-        "transmission": "10-speed Automatic",
+        "transmission": "Automatic",
         "drivetrain": "Rear-Wheel Drive"
       },
       "image": "default-image.jpg"
@@ -665,7 +665,7 @@
       "specifications": {
         "engine": "Electric",
         "horsepower": 358,
-        "transmission": "8-speed Automatic",
+        "transmission": "Automatic",
         "drivetrain": "Rear-Wheel Drive"
       },
       "image": "default-image.jpg"
@@ -833,7 +833,7 @@
       "specifications": {
         "engine": "Electric",
         "horsepower": 120,
-        "transmission": "CVT",
+        "transmission": "Automatic",
         "drivetrain": "Front-Wheel Drive"
       },
       "image": "default-image.jpg"
@@ -987,7 +987,7 @@
       "specifications": {
         "engine": "Electric",
         "horsepower": 506,
-        "transmission": "5-speed Manual",
+        "transmission": "Automatic",
         "drivetrain": "Rear-Wheel Drive"
       },
       "image": "default-image.jpg"
@@ -1155,7 +1155,7 @@
       "specifications": {
         "engine": "Electric",
         "horsepower": 248,
-        "transmission": "9-speed Automatic",
+        "transmission": "Automatic",
         "drivetrain": "All-Wheel Drive"
       },
       "image": "default-image.jpg"
@@ -1351,7 +1351,7 @@
       "specifications": {
         "engine": "Electric",
         "horsepower": 233,
-        "transmission": "6-speed Manual",
+        "transmission": "Automatic",
         "drivetrain": "All-Wheel Drive"
       },
       "image": "default-image.jpg"
@@ -1463,7 +1463,7 @@
       "specifications": {
         "engine": "Electric",
         "horsepower": 165,
-        "transmission": "DCT",
+        "transmission": "Automatic",
         "drivetrain": "Front-Wheel Drive"
       },
       "image": "default-image.jpg"
@@ -1533,7 +1533,7 @@
       "specifications": {
         "engine": "Electric",
         "horsepower": 433,
-        "transmission": "5-speed Manual",
+        "transmission": "Automatic",
         "drivetrain": "Front-Wheel Drive"
       },
       "image": "default-image.jpg"
@@ -1715,7 +1715,7 @@
       "specifications": {
         "engine": "Electric",
         "horsepower": 191,
-        "transmission": "6-speed Manual",
+        "transmission": "Automatic",
         "drivetrain": "Front-Wheel Drive"
       },
       "image": "default-image.jpg"
@@ -1771,7 +1771,7 @@
       "specifications": {
         "engine": "Electric",
         "horsepower": 141,
-        "transmission": "7-speed Manual",
+        "transmission": "Automatic",
         "drivetrain": "Rear-Wheel Drive"
       },
       "image": "default-image.jpg"
@@ -2023,7 +2023,7 @@
       "specifications": {
         "engine": "Electric",
         "horsepower": 677,
-        "transmission": "10-speed Automatic",
+        "transmission": "Automatic",
         "drivetrain": "Front-Wheel Drive"
       },
       "image": "default-image.jpg"
@@ -2219,7 +2219,7 @@
       "specifications": {
         "engine": "Electric",
         "horsepower": 400,
-        "transmission": "5-speed Manual",
+        "transmission": "Automatic",
         "drivetrain": "Rear-Wheel Drive"
       },
       "image": "default-image.jpg"
@@ -2331,7 +2331,7 @@
       "specifications": {
         "engine": "Electric",
         "horsepower": 351,
-        "transmission": "6-speed Manual",
+        "transmission": "Automatic",
         "drivetrain": "Rear-Wheel Drive"
       },
       "image": "default-image.jpg"
@@ -2359,7 +2359,7 @@
       "specifications": {
         "engine": "Electric",
         "horsepower": 381,
-        "transmission": "10-speed Automatic",
+        "transmission": "Automatic",
         "drivetrain": "Rear-Wheel Drive"
       },
       "image": "default-image.jpg"
@@ -2415,7 +2415,7 @@
       "specifications": {
         "engine": "Electric",
         "horsepower": 584,
-        "transmission": "10-speed Automatic",
+        "transmission": "Automatic",
         "drivetrain": "Front-Wheel Drive"
       },
       "image": "default-image.jpg"
@@ -2625,7 +2625,7 @@
       "specifications": {
         "engine": "Electric",
         "horsepower": 194,
-        "transmission": "DCT",
+        "transmission": "Automatic",
         "drivetrain": "Front-Wheel Drive"
       },
       "image": "default-image.jpg"
@@ -2807,7 +2807,7 @@
       "specifications": {
         "engine": "Electric",
         "horsepower": 348,
-        "transmission": "6-speed Manual",
+        "transmission": "Automatic",
         "drivetrain": "Rear-Wheel Drive"
       },
       "image": "default-image.jpg"
@@ -2821,7 +2821,7 @@
       "specifications": {
         "engine": "Electric",
         "horsepower": 583,
-        "transmission": "9-speed Automatic",
+        "transmission": "Automatic",
         "drivetrain": "All-Wheel Drive"
       },
       "image": "default-image.jpg"
@@ -2835,7 +2835,7 @@
       "specifications": {
         "engine": "Electric",
         "horsepower": 313,
-        "transmission": "8-speed Automatic",
+        "transmission": "Automatic",
         "drivetrain": "Rear-Wheel Drive"
       },
       "image": "default-image.jpg"
@@ -3269,7 +3269,7 @@
       "specifications": {
         "engine": "Electric",
         "horsepower": 656,
-        "transmission": "10-speed Automatic",
+        "transmission": "Automatic",
         "drivetrain": "All-Wheel Drive"
       },
       "image": "default-image.jpg"
@@ -3605,7 +3605,7 @@
       "specifications": {
         "engine": "Electric",
         "horsepower": 196,
-        "transmission": "CVT",
+        "transmission": "Automatic",
         "drivetrain": "Front-Wheel Drive"
       },
       "image": "default-image.jpg"
@@ -3675,7 +3675,7 @@
       "specifications": {
         "engine": "Electric",
         "horsepower": 132,
-        "transmission": "6-speed Automatic",
+        "transmission": "Automatic",
         "drivetrain": "Rear-Wheel Drive"
       },
       "image": "default-image.jpg"
@@ -3731,7 +3731,7 @@
       "specifications": {
         "engine": "Electric",
         "horsepower": 427,
-        "transmission": "7-speed Automatic",
+        "transmission": "Automatic",
         "drivetrain": "Rear-Wheel Drive"
       },
       "image": "default-image.jpg"
@@ -3745,7 +3745,7 @@
       "specifications": {
         "engine": "Electric",
         "horsepower": 326,
-        "transmission": "10-speed Automatic",
+        "transmission": "Automatic",
         "drivetrain": "Front-Wheel Drive"
       },
       "image": "default-image.jpg"
@@ -3885,7 +3885,7 @@
       "specifications": {
         "engine": "Electric",
         "horsepower": 502,
-        "transmission": "6-speed Manual",
+        "transmission": "Automatic",
         "drivetrain": "Front-Wheel Drive"
       },
       "image": "default-image.jpg"
@@ -3997,7 +3997,7 @@
       "specifications": {
         "engine": "Electric",
         "horsepower": 121,
-        "transmission": "5-speed Manual",
+        "transmission": "Automatic",
         "drivetrain": "Front-Wheel Drive"
       },
       "image": "default-image.jpg"
@@ -4011,7 +4011,7 @@
       "specifications": {
         "engine": "Electric",
         "horsepower": 686,
-        "transmission": "10-speed Automatic",
+        "transmission": "Automatic",
         "drivetrain": "All-Wheel Drive"
       },
       "image": "default-image.jpg"
@@ -4067,7 +4067,7 @@
       "specifications": {
         "engine": "Electric",
         "horsepower": 699,
-        "transmission": "6-speed Automatic",
+        "transmission": "Automatic",
         "drivetrain": "Rear-Wheel Drive"
       },
       "image": "default-image.jpg"
@@ -4193,7 +4193,7 @@
       "specifications": {
         "engine": "Electric",
         "horsepower": 310,
-        "transmission": "6-speed Manual",
+        "transmission": "Automatic",
         "drivetrain": "Rear-Wheel Drive"
       },
       "image": "default-image.jpg"
@@ -4319,7 +4319,7 @@
       "specifications": {
         "engine": "Electric",
         "horsepower": 227,
-        "transmission": "5-speed Manual",
+        "transmission": "Automatic",
         "drivetrain": "Front-Wheel Drive"
       },
       "image": "default-image.jpg"
@@ -4389,7 +4389,7 @@
       "specifications": {
         "engine": "Electric",
         "horsepower": 254,
-        "transmission": "10-speed Automatic",
+        "transmission": "Automatic",
         "drivetrain": "Front-Wheel Drive"
       },
       "image": "default-image.jpg"
@@ -4641,7 +4641,7 @@
       "specifications": {
         "engine": "Electric",
         "horsepower": 594,
-        "transmission": "6-speed Automatic",
+        "transmission": "Automatic",
         "drivetrain": "Front-Wheel Drive"
       },
       "image": "default-image.jpg"
@@ -4669,7 +4669,7 @@
       "specifications": {
         "engine": "Electric",
         "horsepower": 118,
-        "transmission": "9-speed Automatic",
+        "transmission": "Automatic",
         "drivetrain": "All-Wheel Drive"
       },
       "image": "default-image.jpg"
@@ -4767,7 +4767,7 @@
       "specifications": {
         "engine": "Electric",
         "horsepower": 519,
-        "transmission": "8-speed Automatic",
+        "transmission": "Automatic",
         "drivetrain": "Rear-Wheel Drive"
       },
       "image": "default-image.jpg"
@@ -4865,7 +4865,7 @@
       "specifications": {
         "engine": "Electric",
         "horsepower": 400,
-        "transmission": "8-speed Automatic",
+        "transmission": "Automatic",
         "drivetrain": "All-Wheel Drive"
       },
       "image": "default-image.jpg"
@@ -4977,7 +4977,7 @@
       "specifications": {
         "engine": "Electric",
         "horsepower": 654,
-        "transmission": "9-speed Automatic",
+        "transmission": "Automatic",
         "drivetrain": "All-Wheel Drive"
       },
       "image": "default-image.jpg"
@@ -5117,7 +5117,7 @@
       "specifications": {
         "engine": "Electric",
         "horsepower": 512,
-        "transmission": "7-speed Automatic",
+        "transmission": "Automatic",
         "drivetrain": "All-Wheel Drive"
       },
       "image": "default-image.jpg"
@@ -5327,7 +5327,7 @@
       "specifications": {
         "engine": "Electric",
         "horsepower": 524,
-        "transmission": "DCT",
+        "transmission": "Automatic",
         "drivetrain": "All-Wheel Drive"
       },
       "image": "default-image.jpg"
@@ -5509,7 +5509,7 @@
       "specifications": {
         "engine": "Electric",
         "horsepower": 600,
-        "transmission": "5-speed Manual",
+        "transmission": "Automatic",
         "drivetrain": "Front-Wheel Drive"
       },
       "image": "default-image.jpg"
@@ -5579,7 +5579,7 @@
       "specifications": {
         "engine": "Electric",
         "horsepower": 394,
-        "transmission": "CVT",
+        "transmission": "Automatic",
         "drivetrain": "Rear-Wheel Drive"
       },
       "image": "default-image.jpg"
@@ -5691,7 +5691,7 @@
       "specifications": {
         "engine": "Electric",
         "horsepower": 684,
-        "transmission": "7-speed Manual",
+        "transmission": "Automatic",
         "drivetrain": "Rear-Wheel Drive"
       },
       "image": "default-image.jpg"
@@ -5733,7 +5733,7 @@
       "specifications": {
         "engine": "Electric",
         "horsepower": 124,
-        "transmission": "5-speed Manual",
+        "transmission": "Automatic",
         "drivetrain": "Rear-Wheel Drive"
       },
       "image": "default-image.jpg"
@@ -5789,7 +5789,7 @@
       "specifications": {
         "engine": "Electric",
         "horsepower": 158,
-        "transmission": "8-speed Automatic",
+        "transmission": "Automatic",
         "drivetrain": "All-Wheel Drive"
       },
       "image": "default-image.jpg"
@@ -5985,7 +5985,7 @@
       "specifications": {
         "engine": "Electric",
         "horsepower": 664,
-        "transmission": "6-speed Automatic",
+        "transmission": "Automatic",
         "drivetrain": "All-Wheel Drive"
       },
       "image": "default-image.jpg"
@@ -6013,7 +6013,7 @@
       "specifications": {
         "engine": "Electric",
         "horsepower": 365,
-        "transmission": "DCT",
+        "transmission": "Automatic",
         "drivetrain": "All-Wheel Drive"
       },
       "image": "default-image.jpg"
@@ -6167,7 +6167,7 @@
       "specifications": {
         "engine": "Electric",
         "horsepower": 405,
-        "transmission": "7-speed Manual",
+        "transmission": "Automatic",
         "drivetrain": "Front-Wheel Drive"
       },
       "image": "default-image.jpg"
@@ -6209,7 +6209,7 @@
       "specifications": {
         "engine": "Electric",
         "horsepower": 322,
-        "transmission": "8-speed Automatic",
+        "transmission": "Automatic",
         "drivetrain": "Front-Wheel Drive"
       },
       "image": "default-image.jpg"
@@ -6405,7 +6405,7 @@
       "specifications": {
         "engine": "Electric",
         "horsepower": 248,
-        "transmission": "9-speed Automatic",
+        "transmission": "Automatic",
         "drivetrain": "Front-Wheel Drive"
       },
       "image": "default-image.jpg"
@@ -6419,7 +6419,7 @@
       "specifications": {
         "engine": "Electric",
         "horsepower": 453,
-        "transmission": "10-speed Automatic",
+        "transmission": "Automatic",
         "drivetrain": "Rear-Wheel Drive"
       },
       "image": "default-image.jpg"
@@ -6489,7 +6489,7 @@
       "specifications": {
         "engine": "Electric",
         "horsepower": 634,
-        "transmission": "CVT",
+        "transmission": "Automatic",
         "drivetrain": "Front-Wheel Drive"
       },
       "image": "default-image.jpg"
@@ -6531,7 +6531,7 @@
       "specifications": {
         "engine": "Electric",
         "horsepower": 177,
-        "transmission": "6-speed Manual",
+        "transmission": "Automatic",
         "drivetrain": "All-Wheel Drive"
       },
       "image": "default-image.jpg"
@@ -6615,7 +6615,7 @@
       "specifications": {
         "engine": "Electric",
         "horsepower": 125,
-        "transmission": "9-speed Automatic",
+        "transmission": "Automatic",
         "drivetrain": "Rear-Wheel Drive"
       },
       "image": "default-image.jpg"
@@ -6629,7 +6629,7 @@
       "specifications": {
         "engine": "Electric",
         "horsepower": 363,
-        "transmission": "7-speed Automatic",
+        "transmission": "Automatic",
         "drivetrain": "Front-Wheel Drive"
       },
       "image": "default-image.jpg"
@@ -6853,7 +6853,7 @@
       "specifications": {
         "engine": "Electric",
         "horsepower": 442,
-        "transmission": "10-speed Automatic",
+        "transmission": "Automatic",
         "drivetrain": "All-Wheel Drive"
       },
       "image": "default-image.jpg"
@@ -6909,7 +6909,7 @@
       "specifications": {
         "engine": "Electric",
         "horsepower": 352,
-        "transmission": "DCT",
+        "transmission": "Automatic",
         "drivetrain": "Rear-Wheel Drive"
       },
       "image": "default-image.jpg"
@@ -7217,7 +7217,7 @@
       "specifications": {
         "engine": "Electric",
         "horsepower": 651,
-        "transmission": "CVT",
+        "transmission": "Automatic",
         "drivetrain": "All-Wheel Drive"
       },
       "image": "default-image.jpg"
@@ -7441,7 +7441,7 @@
       "specifications": {
         "engine": "Electric",
         "horsepower": 591,
-        "transmission": "6-speed Automatic",
+        "transmission": "Automatic",
         "drivetrain": "Front-Wheel Drive"
       },
       "image": "default-image.jpg"
@@ -7693,7 +7693,7 @@
       "specifications": {
         "engine": "Electric",
         "horsepower": 526,
-        "transmission": "7-speed Manual",
+        "transmission": "Automatic",
         "drivetrain": "Rear-Wheel Drive"
       },
       "image": "default-image.jpg"
@@ -7833,7 +7833,7 @@
       "specifications": {
         "engine": "Electric",
         "horsepower": 655,
-        "transmission": "7-speed Manual",
+        "transmission": "Automatic",
         "drivetrain": "Rear-Wheel Drive"
       },
       "image": "default-image.jpg"
@@ -7861,7 +7861,7 @@
       "specifications": {
         "engine": "Electric",
         "horsepower": 408,
-        "transmission": "7-speed Manual",
+        "transmission": "Automatic",
         "drivetrain": "Front-Wheel Drive"
       },
       "image": "default-image.jpg"
@@ -8043,7 +8043,7 @@
       "specifications": {
         "engine": "Electric",
         "horsepower": 655,
-        "transmission": "8-speed Automatic",
+        "transmission": "Automatic",
         "drivetrain": "Rear-Wheel Drive"
       },
       "image": "default-image.jpg"
@@ -8309,7 +8309,7 @@
       "specifications": {
         "engine": "Electric",
         "horsepower": 574,
-        "transmission": "8-speed Automatic",
+        "transmission": "Automatic",
         "drivetrain": "Rear-Wheel Drive"
       },
       "image": "default-image.jpg"
@@ -8407,7 +8407,7 @@
       "specifications": {
         "engine": "Electric",
         "horsepower": 664,
-        "transmission": "9-speed Automatic",
+        "transmission": "Automatic",
         "drivetrain": "All-Wheel Drive"
       },
       "image": "default-image.jpg"
@@ -8491,7 +8491,7 @@
       "specifications": {
         "engine": "Electric",
         "horsepower": 619,
-        "transmission": "10-speed Automatic",
+        "transmission": "Automatic",
         "drivetrain": "All-Wheel Drive"
       },
       "image": "default-image.jpg"
@@ -8953,7 +8953,7 @@
       "specifications": {
         "engine": "Electric",
         "horsepower": 226,
-        "transmission": "DCT",
+        "transmission": "Automatic",
         "drivetrain": "Front-Wheel Drive"
       },
       "image": "default-image.jpg"
@@ -9149,7 +9149,7 @@
       "specifications": {
         "engine": "Electric",
         "horsepower": 252,
-        "transmission": "CVT",
+        "transmission": "Automatic",
         "drivetrain": "Front-Wheel Drive"
       },
       "image": "default-image.jpg"
@@ -9527,7 +9527,7 @@
       "specifications": {
         "engine": "Electric",
         "horsepower": 613,
-        "transmission": "8-speed Automatic",
+        "transmission": "Automatic",
         "drivetrain": "Front-Wheel Drive"
       },
       "image": "default-image.jpg"
@@ -9611,7 +9611,7 @@
       "specifications": {
         "engine": "Electric",
         "horsepower": 121,
-        "transmission": "6-speed Automatic",
+        "transmission": "Automatic",
         "drivetrain": "All-Wheel Drive"
       },
       "image": "default-image.jpg"
@@ -9765,7 +9765,7 @@
       "specifications": {
         "engine": "Electric",
         "horsepower": 185,
-        "transmission": "7-speed Manual",
+        "transmission": "Automatic",
         "drivetrain": "Rear-Wheel Drive"
       },
       "image": "default-image.jpg"
@@ -9779,7 +9779,7 @@
       "specifications": {
         "engine": "Electric",
         "horsepower": 223,
-        "transmission": "7-speed Automatic",
+        "transmission": "Automatic",
         "drivetrain": "Rear-Wheel Drive"
       },
       "image": "default-image.jpg"
@@ -9821,7 +9821,7 @@
       "specifications": {
         "engine": "Electric",
         "horsepower": 604,
-        "transmission": "7-speed Manual",
+        "transmission": "Automatic",
         "drivetrain": "All-Wheel Drive"
       },
       "image": "default-image.jpg"
@@ -9877,7 +9877,7 @@
       "specifications": {
         "engine": "Electric",
         "horsepower": 521,
-        "transmission": "DCT",
+        "transmission": "Automatic",
         "drivetrain": "Rear-Wheel Drive"
       },
       "image": "default-image.jpg"
@@ -10017,7 +10017,7 @@
       "specifications": {
         "engine": "Electric",
         "horsepower": 647,
-        "transmission": "7-speed Manual",
+        "transmission": "Automatic",
         "drivetrain": "Front-Wheel Drive"
       },
       "image": "default-image.jpg"
@@ -10157,7 +10157,7 @@
       "specifications": {
         "engine": "Electric",
         "horsepower": 652,
-        "transmission": "5-speed Manual",
+        "transmission": "Automatic",
         "drivetrain": "Rear-Wheel Drive"
       },
       "image": "default-image.jpg"
@@ -10227,7 +10227,7 @@
       "specifications": {
         "engine": "Electric",
         "horsepower": 428,
-        "transmission": "9-speed Automatic",
+        "transmission": "Automatic",
         "drivetrain": "Rear-Wheel Drive"
       },
       "image": "default-image.jpg"
@@ -10423,7 +10423,7 @@
       "specifications": {
         "engine": "Electric",
         "horsepower": 441,
-        "transmission": "7-speed Automatic",
+        "transmission": "Automatic",
         "drivetrain": "Front-Wheel Drive"
       },
       "image": "default-image.jpg"
@@ -10717,7 +10717,7 @@
       "specifications": {
         "engine": "Electric",
         "horsepower": 453,
-        "transmission": "8-speed Automatic",
+        "transmission": "Automatic",
         "drivetrain": "Rear-Wheel Drive"
       },
       "image": "default-image.jpg"
@@ -10731,7 +10731,7 @@
       "specifications": {
         "engine": "Electric",
         "horsepower": 255,
-        "transmission": "7-speed Automatic",
+        "transmission": "Automatic",
         "drivetrain": "All-Wheel Drive"
       },
       "image": "default-image.jpg"
@@ -11151,7 +11151,7 @@
       "specifications": {
         "engine": "Electric",
         "horsepower": 661,
-        "transmission": "8-speed Automatic",
+        "transmission": "Automatic",
         "drivetrain": "Rear-Wheel Drive"
       },
       "image": "default-image.jpg"
@@ -11249,7 +11249,7 @@
       "specifications": {
         "engine": "Electric",
         "horsepower": 112,
-        "transmission": "5-speed Manual",
+        "transmission": "Automatic",
         "drivetrain": "Front-Wheel Drive"
       },
       "image": "default-image.jpg"
@@ -11445,7 +11445,7 @@
       "specifications": {
         "engine": "Electric",
         "horsepower": 673,
-        "transmission": "8-speed Automatic",
+        "transmission": "Automatic",
         "drivetrain": "Rear-Wheel Drive"
       },
       "image": "default-image.jpg"
@@ -11879,7 +11879,7 @@
       "specifications": {
         "engine": "Electric",
         "horsepower": 204,
-        "transmission": "8-speed Automatic",
+        "transmission": "Automatic",
         "drivetrain": "Front-Wheel Drive"
       },
       "image": "default-image.jpg"
@@ -11949,7 +11949,7 @@
       "specifications": {
         "engine": "Electric",
         "horsepower": 121,
-        "transmission": "7-speed Automatic",
+        "transmission": "Automatic",
         "drivetrain": "All-Wheel Drive"
       },
       "image": "default-image.jpg"
@@ -12047,7 +12047,7 @@
       "specifications": {
         "engine": "Electric",
         "horsepower": 688,
-        "transmission": "9-speed Automatic",
+        "transmission": "Automatic",
         "drivetrain": "All-Wheel Drive"
       },
       "image": "default-image.jpg"
@@ -12103,7 +12103,7 @@
       "specifications": {
         "engine": "Electric",
         "horsepower": 244,
-        "transmission": "6-speed Automatic",
+        "transmission": "Automatic",
         "drivetrain": "Rear-Wheel Drive"
       },
       "image": "default-image.jpg"
@@ -12187,7 +12187,7 @@
       "specifications": {
         "engine": "Electric",
         "horsepower": 294,
-        "transmission": "8-speed Automatic",
+        "transmission": "Automatic",
         "drivetrain": "All-Wheel Drive"
       },
       "image": "default-image.jpg"
@@ -12523,7 +12523,7 @@
       "specifications": {
         "engine": "Electric",
         "horsepower": 466,
-        "transmission": "8-speed Automatic",
+        "transmission": "Automatic",
         "drivetrain": "All-Wheel Drive"
       },
       "image": "default-image.jpg"
@@ -12551,7 +12551,7 @@
       "specifications": {
         "engine": "Electric",
         "horsepower": 637,
-        "transmission": "CVT",
+        "transmission": "Automatic",
         "drivetrain": "All-Wheel Drive"
       },
       "image": "default-image.jpg"
@@ -12635,7 +12635,7 @@
       "specifications": {
         "engine": "Electric",
         "horsepower": 385,
-        "transmission": "CVT",
+        "transmission": "Automatic",
         "drivetrain": "All-Wheel Drive"
       },
       "image": "default-image.jpg"
@@ -12705,7 +12705,7 @@
       "specifications": {
         "engine": "Electric",
         "horsepower": 390,
-        "transmission": "7-speed Manual",
+        "transmission": "Automatic",
         "drivetrain": "Front-Wheel Drive"
       },
       "image": "default-image.jpg"
@@ -12943,7 +12943,7 @@
       "specifications": {
         "engine": "Electric",
         "horsepower": 211,
-        "transmission": "10-speed Automatic",
+        "transmission": "Automatic",
         "drivetrain": "Front-Wheel Drive"
       },
       "image": "default-image.jpg"
@@ -12957,7 +12957,7 @@
       "specifications": {
         "engine": "Electric",
         "horsepower": 651,
-        "transmission": "6-speed Automatic",
+        "transmission": "Automatic",
         "drivetrain": "All-Wheel Drive"
       },
       "image": "default-image.jpg"
