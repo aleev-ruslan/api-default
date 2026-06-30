@@ -411,7 +411,7 @@
       "categoryId": 8,
       "year": 2021,
       "specifications": {
-        "engine": "3.5L V6",
+        "engine": "Electric",
         "horsepower": 408,
         "transmission": "9-speed Automatic",
         "drivetrain": "Front-Wheel Drive"
@@ -663,7 +663,7 @@
       "categoryId": 8,
       "year": 2026,
       "specifications": {
-        "engine": "3.5L V6",
+        "engine": "Electric",
         "horsepower": 358,
         "transmission": "8-speed Automatic",
         "drivetrain": "Rear-Wheel Drive"
@@ -705,9 +705,9 @@
       "categoryId": 9,
       "year": 2018,
       "specifications": {
-        "engine": "2.5L Inline-4",
+        "engine": "Electric",
         "horsepower": 567,
-        "transmission": "CVT",
+        "transmission": "Automatic",
         "drivetrain": "All-Wheel Drive"
       },
       "image": "default-image.jpg"
@@ -775,7 +775,7 @@
       "categoryId": 3,
       "year": 2026,
       "specifications": {
-        "engine": "5.0L V8",
+        "engine": "Electric",
         "horsepower": 243,
         "transmission": "7-speed Manual",
         "drivetrain": "All-Wheel Drive"
@@ -831,7 +831,7 @@
       "categoryId": 8,
       "year": 2021,
       "specifications": {
-        "engine": "5.0L V8",
+        "engine": "Electric",
         "horsepower": 120,
         "transmission": "CVT",
         "drivetrain": "Front-Wheel Drive"
@@ -985,7 +985,7 @@
       "categoryId": 8,
       "year": 2017,
       "specifications": {
-        "engine": "2.0L Inline-4",
+        "engine": "Electric",
         "horsepower": 506,
         "transmission": "5-speed Manual",
         "drivetrain": "Rear-Wheel Drive"
@@ -1153,7 +1153,7 @@
       "categoryId": 8,
       "year": 2017,
       "specifications": {
-        "engine": "3.0L V6",
+        "engine": "Electric",
         "horsepower": 248,
         "transmission": "9-speed Automatic",
         "drivetrain": "All-Wheel Drive"
@@ -1349,7 +1349,7 @@
       "categoryId": 8,
       "year": 2024,
       "specifications": {
-        "engine": "3.5L V6",
+        "engine": "Electric",
         "horsepower": 233,
         "transmission": "6-speed Manual",
         "drivetrain": "All-Wheel Drive"
@@ -1461,7 +1461,7 @@
       "categoryId": 8,
       "year": 2023,
       "specifications": {
-        "engine": "3.0L V6",
+        "engine": "Electric",
         "horsepower": 165,
         "transmission": "DCT",
         "drivetrain": "Front-Wheel Drive"
@@ -1531,7 +1531,7 @@
       "categoryId": 8,
       "year": 2016,
       "specifications": {
-        "engine": "2.5L Inline-4",
+        "engine": "Electric",
         "horsepower": 433,
         "transmission": "5-speed Manual",
         "drivetrain": "Front-Wheel Drive"
@@ -1713,7 +1713,7 @@
       "categoryId": 8,
       "year": 2020,
       "specifications": {
-        "engine": "5.0L V8",
+        "engine": "Electric",
         "horsepower": 191,
         "transmission": "6-speed Manual",
         "drivetrain": "Front-Wheel Drive"
@@ -1811,10 +1811,10 @@
       "categoryId": 2,
       "year": 2022,
       "specifications": {
-        "engine": "5.0L V8",
+        "engine": "Electric",
         "horsepower": 555,
-        "transmission": "5-speed Manual",
-        "drivetrain": "Rear-Wheel Drive"
+        "transmission": "Automatic",
+        "drivetrain": "All-Wheel Drive"
       },
       "image": "default-image.jpg"
     },
@@ -1881,10 +1881,10 @@
       "categoryId": 5,
       "year": 2015,
       "specifications": {
-        "engine": "5.0L V8",
+        "engine": "Electric",
         "horsepower": 192,
-        "transmission": "6-speed Automatic",
-        "drivetrain": "Front-Wheel Drive"
+        "transmission": "Automatic",
+        "drivetrain": "All-Wheel Drive"
       },
       "image": "default-image.jpg"
     },
@@ -1923,10 +1923,10 @@
       "categoryId": 8,
       "year": 2019,
       "specifications": {
-        "engine": "5.0L V8",
+        "engine": "Electric",
         "horsepower": 385,
-        "transmission": "CVT",
-        "drivetrain": "Front-Wheel Drive"
+        "transmission": "Automatic",
+        "drivetrain": "All-Wheel Drive"
       },
       "image": "default-image.jpg"
     },
@@ -2021,7 +2021,7 @@
       "categoryId": 8,
       "year": 2023,
       "specifications": {
-        "engine": "2.5L Inline-4",
+        "engine": "Electric",
         "horsepower": 677,
         "transmission": "10-speed Automatic",
         "drivetrain": "Front-Wheel Drive"
@@ -2203,10 +2203,10 @@
       "categoryId": 2,
       "year": 2017,
       "specifications": {
-        "engine": "2.0L Inline-4",
+        "engine": "Electric",
         "horsepower": 478,
-        "transmission": "DCT",
-        "drivetrain": "Front-Wheel Drive"
+        "transmission": "Automatic",
+        "drivetrain": "All-Wheel Drive"
       },
       "image": "default-image.jpg"
     },
@@ -2217,7 +2217,7 @@
       "categoryId": 8,
       "year": 2018,
       "specifications": {
-        "engine": "2.0L Inline-4",
+        "engine": "Electric",
         "horsepower": 400,
         "transmission": "5-speed Manual",
         "drivetrain": "Rear-Wheel Drive"
@@ -2329,7 +2329,7 @@
       "categoryId": 8,
       "year": 2022,
       "specifications": {
-        "engine": "2.5L Inline-4",
+        "engine": "Electric",
         "horsepower": 351,
         "transmission": "6-speed Manual",
         "drivetrain": "Rear-Wheel Drive"
@@ -2357,7 +2357,7 @@
       "categoryId": 8,
       "year": 2017,
       "specifications": {
-        "engine": "5.0L V8",
+        "engine": "Electric",
         "horsepower": 381,
         "transmission": "10-speed Automatic",
         "drivetrain": "Rear-Wheel Drive"
@@ -2399,9 +2399,9 @@
       "categoryId": 2,
       "year": 2026,
       "specifications": {
-        "engine": "3.0L V6",
+        "engine": "Electric",
         "horsepower": 597,
-        "transmission": "9-speed Automatic",
+        "transmission": "Automatic",
         "drivetrain": "All-Wheel Drive"
       },
       "image": "default-image.jpg"
@@ -2413,7 +2413,7 @@
       "categoryId": 8,
       "year": 2022,
       "specifications": {
-        "engine": "3.0L V6",
+        "engine": "Electric",
         "horsepower": 584,
         "transmission": "10-speed Automatic",
         "drivetrain": "Front-Wheel Drive"
@@ -2511,10 +2511,10 @@
       "categoryId": 4,
       "year": 2017,
       "specifications": {
-        "engine": "3.0L V6",
+        "engine": "Electric",
         "horsepower": 523,
-        "transmission": "10-speed Automatic",
-        "drivetrain": "Front-Wheel Drive"
+        "transmission": "Automatic",
+        "drivetrain": "All-Wheel Drive"
       },
       "image": "default-image.jpg"
     },
@@ -2539,9 +2539,9 @@
       "categoryId": 6,
       "year": 2017,
       "specifications": {
-        "engine": "5.0L V8",
+        "engine": "Electric",
         "horsepower": 613,
-        "transmission": "9-speed Automatic",
+        "transmission": "Automatic",
         "drivetrain": "All-Wheel Drive"
       },
       "image": "default-image.jpg"
@@ -2623,7 +2623,7 @@
       "categoryId": 8,
       "year": 2025,
       "specifications": {
-        "engine": "2.0L Inline-4",
+        "engine": "Electric",
         "horsepower": 194,
         "transmission": "DCT",
         "drivetrain": "Front-Wheel Drive"
@@ -2805,7 +2805,7 @@
       "categoryId": 8,
       "year": 2015,
       "specifications": {
-        "engine": "2.5L Inline-4",
+        "engine": "Electric",
         "horsepower": 348,
         "transmission": "6-speed Manual",
         "drivetrain": "Rear-Wheel Drive"
@@ -2819,7 +2819,7 @@
       "categoryId": 8,
       "year": 2021,
       "specifications": {
-        "engine": "2.0L Inline-4",
+        "engine": "Electric",
         "horsepower": 583,
         "transmission": "9-speed Automatic",
         "drivetrain": "All-Wheel Drive"
@@ -2833,7 +2833,7 @@
       "categoryId": 8,
       "year": 2026,
       "specifications": {
-        "engine": "3.5L V6",
+        "engine": "Electric",
         "horsepower": 313,
         "transmission": "8-speed Automatic",
         "drivetrain": "Rear-Wheel Drive"
@@ -3127,10 +3127,10 @@
       "categoryId": 4,
       "year": 2023,
       "specifications": {
-        "engine": "2.5L Inline-4",
+        "engine": "Electric",
         "horsepower": 573,
-        "transmission": "7-speed Automatic",
-        "drivetrain": "Rear-Wheel Drive"
+        "transmission": "Automatic",
+        "drivetrain": "All-Wheel Drive"
       },
       "image": "default-image.jpg"
     },
@@ -3141,10 +3141,10 @@
       "categoryId": 4,
       "year": 2026,
       "specifications": {
-        "engine": "2.0L Inline-4",
+        "engine": "Electric",
         "horsepower": 218,
-        "transmission": "8-speed Automatic",
-        "drivetrain": "Rear-Wheel Drive"
+        "transmission": "Automatic",
+        "drivetrain": "All-Wheel Drive"
       },
       "image": "default-image.jpg"
     },
@@ -3267,7 +3267,7 @@
       "categoryId": 8,
       "year": 2025,
       "specifications": {
-        "engine": "2.5L Inline-4",
+        "engine": "Electric",
         "horsepower": 656,
         "transmission": "10-speed Automatic",
         "drivetrain": "All-Wheel Drive"
@@ -3435,10 +3435,10 @@
       "categoryId": 4,
       "year": 2016,
       "specifications": {
-        "engine": "1.5L Inline-4",
+        "engine": "Electric",
         "horsepower": 518,
-        "transmission": "7-speed Manual",
-        "drivetrain": "Front-Wheel Drive"
+        "transmission": "Automatic",
+        "drivetrain": "All-Wheel Drive"
       },
       "image": "default-image.jpg"
     },
@@ -3603,7 +3603,7 @@
       "categoryId": 8,
       "year": 2021,
       "specifications": {
-        "engine": "1.5L Inline-4",
+        "engine": "Electric",
         "horsepower": 196,
         "transmission": "CVT",
         "drivetrain": "Front-Wheel Drive"
@@ -3645,10 +3645,10 @@
       "categoryId": 5,
       "year": 2021,
       "specifications": {
-        "engine": "2.0L Inline-4",
+        "engine": "Electric",
         "horsepower": 395,
-        "transmission": "8-speed Automatic",
-        "drivetrain": "Rear-Wheel Drive"
+        "transmission": "Automatic",
+        "drivetrain": "All-Wheel Drive"
       },
       "image": "default-image.jpg"
     },
@@ -3659,9 +3659,9 @@
       "categoryId": 2,
       "year": 2024,
       "specifications": {
-        "engine": "1.5L Inline-4",
+        "engine": "Electric",
         "horsepower": 636,
-        "transmission": "6-speed Automatic",
+        "transmission": "Automatic",
         "drivetrain": "All-Wheel Drive"
       },
       "image": "default-image.jpg"
@@ -3673,7 +3673,7 @@
       "categoryId": 8,
       "year": 2023,
       "specifications": {
-        "engine": "2.5L Inline-4",
+        "engine": "Electric",
         "horsepower": 132,
         "transmission": "6-speed Automatic",
         "drivetrain": "Rear-Wheel Drive"
@@ -3689,8 +3689,8 @@
       "specifications": {
         "engine": "Electric",
         "horsepower": 639,
-        "transmission": "7-speed Automatic",
-        "drivetrain": "Front-Wheel Drive"
+        "transmission": "Automatic",
+        "drivetrain": "All-Wheel Drive"
       },
       "image": "default-image.jpg"
     },
@@ -3729,7 +3729,7 @@
       "categoryId": 8,
       "year": 2017,
       "specifications": {
-        "engine": "2.0L Inline-4",
+        "engine": "Electric",
         "horsepower": 427,
         "transmission": "7-speed Automatic",
         "drivetrain": "Rear-Wheel Drive"
@@ -3743,7 +3743,7 @@
       "categoryId": 8,
       "year": 2015,
       "specifications": {
-        "engine": "2.5L Inline-4",
+        "engine": "Electric",
         "horsepower": 326,
         "transmission": "10-speed Automatic",
         "drivetrain": "Front-Wheel Drive"
@@ -3883,7 +3883,7 @@
       "categoryId": 8,
       "year": 2022,
       "specifications": {
-        "engine": "5.0L V8",
+        "engine": "Electric",
         "horsepower": 502,
         "transmission": "6-speed Manual",
         "drivetrain": "Front-Wheel Drive"
@@ -3995,7 +3995,7 @@
       "categoryId": 8,
       "year": 2018,
       "specifications": {
-        "engine": "3.0L V6",
+        "engine": "Electric",
         "horsepower": 121,
         "transmission": "5-speed Manual",
         "drivetrain": "Front-Wheel Drive"
@@ -4009,7 +4009,7 @@
       "categoryId": 8,
       "year": 2026,
       "specifications": {
-        "engine": "3.5L V6",
+        "engine": "Electric",
         "horsepower": 686,
         "transmission": "10-speed Automatic",
         "drivetrain": "All-Wheel Drive"
@@ -4065,7 +4065,7 @@
       "categoryId": 8,
       "year": 2019,
       "specifications": {
-        "engine": "3.5L V6",
+        "engine": "Electric",
         "horsepower": 699,
         "transmission": "6-speed Automatic",
         "drivetrain": "Rear-Wheel Drive"
@@ -4107,9 +4107,9 @@
       "categoryId": 4,
       "year": 2021,
       "specifications": {
-        "engine": "2.0L Inline-4",
+        "engine": "Electric",
         "horsepower": 489,
-        "transmission": "7-speed Automatic",
+        "transmission": "Automatic",
         "drivetrain": "All-Wheel Drive"
       },
       "image": "default-image.jpg"
@@ -4191,7 +4191,7 @@
       "categoryId": 8,
       "year": 2017,
       "specifications": {
-        "engine": "1.5L Inline-4",
+        "engine": "Electric",
         "horsepower": 310,
         "transmission": "6-speed Manual",
         "drivetrain": "Rear-Wheel Drive"
@@ -4317,7 +4317,7 @@
       "categoryId": 8,
       "year": 2020,
       "specifications": {
-        "engine": "1.5L Inline-4",
+        "engine": "Electric",
         "horsepower": 227,
         "transmission": "5-speed Manual",
         "drivetrain": "Front-Wheel Drive"
@@ -4401,10 +4401,10 @@
       "categoryId": 10,
       "year": 2025,
       "specifications": {
-        "engine": "3.0L V6",
+        "engine": "Electric",
         "horsepower": 233,
-        "transmission": "7-speed Automatic",
-        "drivetrain": "Front-Wheel Drive"
+        "transmission": "Automatic",
+        "drivetrain": "All-Wheel Drive"
       },
       "image": "default-image.jpg"
     },
@@ -4527,7 +4527,7 @@
       "categoryId": 7,
       "year": 2015,
       "specifications": {
-        "engine": "2.5L Inline-4",
+        "engine": "Electric",
         "horsepower": 206,
         "transmission": "5-speed Manual",
         "drivetrain": "All-Wheel Drive"
@@ -4639,7 +4639,7 @@
       "categoryId": 8,
       "year": 2017,
       "specifications": {
-        "engine": "2.0L Inline-4",
+        "engine": "Electric",
         "horsepower": 594,
         "transmission": "6-speed Automatic",
         "drivetrain": "Front-Wheel Drive"
@@ -4653,7 +4653,7 @@
       "categoryId": 4,
       "year": 2024,
       "specifications": {
-        "engine": "2.5L Inline-4",
+        "engine": "Electric",
         "horsepower": 306,
         "transmission": "6-speed Manual",
         "drivetrain": "Rear-Wheel Drive"
@@ -4667,7 +4667,7 @@
       "categoryId": 8,
       "year": 2019,
       "specifications": {
-        "engine": "2.5L Inline-4",
+        "engine": "Electric",
         "horsepower": 118,
         "transmission": "9-speed Automatic",
         "drivetrain": "All-Wheel Drive"
@@ -4697,7 +4697,7 @@
       "specifications": {
         "engine": "Electric",
         "horsepower": 306,
-        "transmission": "10-speed Automatic",
+        "transmission": "Automatic",
         "drivetrain": "All-Wheel Drive"
       },
       "image": "default-image.jpg"
@@ -4765,7 +4765,7 @@
       "categoryId": 8,
       "year": 2018,
       "specifications": {
-        "engine": "2.0L Inline-4",
+        "engine": "Electric",
         "horsepower": 519,
         "transmission": "8-speed Automatic",
         "drivetrain": "Rear-Wheel Drive"
@@ -4919,10 +4919,10 @@
       "categoryId": 8,
       "year": 2022,
       "specifications": {
-        "engine": "2.0L Inline-4",
+        "engine": "Electric",
         "horsepower": 291,
-        "transmission": "6-speed Manual",
-        "drivetrain": "Front-Wheel Drive"
+        "transmission": "Automatic",
+        "drivetrain": "All-Wheel Drive"
       },
       "image": "default-image.jpg"
     },
@@ -4975,7 +4975,7 @@
       "categoryId": 8,
       "year": 2018,
       "specifications": {
-        "engine": "1.5L Inline-4",
+        "engine": "Electric",
         "horsepower": 654,
         "transmission": "9-speed Automatic",
         "drivetrain": "All-Wheel Drive"
@@ -5115,7 +5115,7 @@
       "categoryId": 8,
       "year": 2024,
       "specifications": {
-        "engine": "1.5L Inline-4",
+        "engine": "Electric",
         "horsepower": 512,
         "transmission": "7-speed Automatic",
         "drivetrain": "All-Wheel Drive"
@@ -5129,10 +5129,10 @@
       "categoryId": 8,
       "year": 2026,
       "specifications": {
-        "engine": "3.0L V6",
+        "engine": "Electric",
         "horsepower": 426,
-        "transmission": "CVT",
-        "drivetrain": "Rear-Wheel Drive"
+        "transmission": "Automatic",
+        "drivetrain": "All-Wheel Drive"
       },
       "image": "default-image.jpg"
     },
@@ -5325,7 +5325,7 @@
       "categoryId": 8,
       "year": 2023,
       "specifications": {
-        "engine": "3.0L V6",
+        "engine": "Electric",
         "horsepower": 524,
         "transmission": "DCT",
         "drivetrain": "All-Wheel Drive"
@@ -5353,7 +5353,7 @@
       "categoryId": 6,
       "year": 2017,
       "specifications": {
-        "engine": "1.5L Inline-4",
+        "engine": "Electric",
         "horsepower": 622,
         "transmission": "5-speed Manual",
         "drivetrain": "All-Wheel Drive"
@@ -5507,7 +5507,7 @@
       "categoryId": 8,
       "year": 2021,
       "specifications": {
-        "engine": "5.0L V8",
+        "engine": "Electric",
         "horsepower": 600,
         "transmission": "5-speed Manual",
         "drivetrain": "Front-Wheel Drive"
@@ -5577,7 +5577,7 @@
       "categoryId": 8,
       "year": 2022,
       "specifications": {
-        "engine": "2.0L Inline-4",
+        "engine": "Electric",
         "horsepower": 394,
         "transmission": "CVT",
         "drivetrain": "Rear-Wheel Drive"
@@ -5633,10 +5633,10 @@
       "categoryId": 5,
       "year": 2016,
       "specifications": {
-        "engine": "2.0L Inline-4",
+        "engine": "Electric",
         "horsepower": 258,
-        "transmission": "CVT",
-        "drivetrain": "Front-Wheel Drive"
+        "transmission": "Automatic",
+        "drivetrain": "All-Wheel Drive"
       },
       "image": "default-image.jpg"
     },
@@ -5689,7 +5689,7 @@
       "categoryId": 8,
       "year": 2024,
       "specifications": {
-        "engine": "1.5L Inline-4",
+        "engine": "Electric",
         "horsepower": 684,
         "transmission": "7-speed Manual",
         "drivetrain": "Rear-Wheel Drive"
@@ -5731,7 +5731,7 @@
       "categoryId": 8,
       "year": 2023,
       "specifications": {
-        "engine": "2.5L Inline-4",
+        "engine": "Electric",
         "horsepower": 124,
         "transmission": "5-speed Manual",
         "drivetrain": "Rear-Wheel Drive"
@@ -5787,7 +5787,7 @@
       "categoryId": 8,
       "year": 2018,
       "specifications": {
-        "engine": "3.0L V6",
+        "engine": "Electric",
         "horsepower": 158,
         "transmission": "8-speed Automatic",
         "drivetrain": "All-Wheel Drive"
@@ -5899,10 +5899,10 @@
       "categoryId": 3,
       "year": 2023,
       "specifications": {
-        "engine": "2.0L Inline-4",
+        "engine": "Electric",
         "horsepower": 565,
-        "transmission": "6-speed Automatic",
-        "drivetrain": "Front-Wheel Drive"
+        "transmission": "Automatic",
+        "drivetrain": "All-Wheel Drive"
       },
       "image": "default-image.jpg"
     },
@@ -5983,7 +5983,7 @@
       "categoryId": 8,
       "year": 2016,
       "specifications": {
-        "engine": "5.0L V8",
+        "engine": "Electric",
         "horsepower": 664,
         "transmission": "6-speed Automatic",
         "drivetrain": "All-Wheel Drive"
@@ -6011,7 +6011,7 @@
       "categoryId": 8,
       "year": 2015,
       "specifications": {
-        "engine": "2.5L Inline-4",
+        "engine": "Electric",
         "horsepower": 365,
         "transmission": "DCT",
         "drivetrain": "All-Wheel Drive"
@@ -6165,7 +6165,7 @@
       "categoryId": 8,
       "year": 2021,
       "specifications": {
-        "engine": "3.5L V6",
+        "engine": "Electric",
         "horsepower": 405,
         "transmission": "7-speed Manual",
         "drivetrain": "Front-Wheel Drive"
@@ -6207,7 +6207,7 @@
       "categoryId": 8,
       "year": 2021,
       "specifications": {
-        "engine": "3.0L V6",
+        "engine": "Electric",
         "horsepower": 322,
         "transmission": "8-speed Automatic",
         "drivetrain": "Front-Wheel Drive"
@@ -6361,7 +6361,7 @@
       "categoryId": 2,
       "year": 2019,
       "specifications": {
-        "engine": "3.0L V6",
+        "engine": "Electric",
         "horsepower": 202,
         "transmission": "DCT",
         "drivetrain": "Rear-Wheel Drive"
@@ -6403,7 +6403,7 @@
       "categoryId": 8,
       "year": 2017,
       "specifications": {
-        "engine": "3.5L V6",
+        "engine": "Electric",
         "horsepower": 248,
         "transmission": "9-speed Automatic",
         "drivetrain": "Front-Wheel Drive"
@@ -6417,7 +6417,7 @@
       "categoryId": 8,
       "year": 2018,
       "specifications": {
-        "engine": "2.5L Inline-4",
+        "engine": "Electric",
         "horsepower": 453,
         "transmission": "10-speed Automatic",
         "drivetrain": "Rear-Wheel Drive"
@@ -6487,7 +6487,7 @@
       "categoryId": 8,
       "year": 2022,
       "specifications": {
-        "engine": "3.5L V6",
+        "engine": "Electric",
         "horsepower": 634,
         "transmission": "CVT",
         "drivetrain": "Front-Wheel Drive"
@@ -6529,7 +6529,7 @@
       "categoryId": 8,
       "year": 2018,
       "specifications": {
-        "engine": "1.5L Inline-4",
+        "engine": "Electric",
         "horsepower": 177,
         "transmission": "6-speed Manual",
         "drivetrain": "All-Wheel Drive"
@@ -6613,7 +6613,7 @@
       "categoryId": 8,
       "year": 2017,
       "specifications": {
-        "engine": "5.0L V8",
+        "engine": "Electric",
         "horsepower": 125,
         "transmission": "9-speed Automatic",
         "drivetrain": "Rear-Wheel Drive"
@@ -6627,7 +6627,7 @@
       "categoryId": 8,
       "year": 2021,
       "specifications": {
-        "engine": "1.5L Inline-4",
+        "engine": "Electric",
         "horsepower": 363,
         "transmission": "7-speed Automatic",
         "drivetrain": "Front-Wheel Drive"
@@ -6655,7 +6655,7 @@
       "categoryId": 1,
       "year": 2023,
       "specifications": {
-        "engine": "3.0L V6",
+        "engine": "Electric",
         "horsepower": 318,
         "transmission": "9-speed Automatic",
         "drivetrain": "Front-Wheel Drive"
@@ -6683,10 +6683,10 @@
       "categoryId": 7,
       "year": 2018,
       "specifications": {
-        "engine": "3.0L V6",
+        "engine": "Electric",
         "horsepower": 163,
-        "transmission": "6-speed Manual",
-        "drivetrain": "Front-Wheel Drive"
+        "transmission": "Automatic",
+        "drivetrain": "All-Wheel Drive"
       },
       "image": "default-image.jpg"
     },
@@ -6851,7 +6851,7 @@
       "categoryId": 8,
       "year": 2019,
       "specifications": {
-        "engine": "1.5L Inline-4",
+        "engine": "Electric",
         "horsepower": 442,
         "transmission": "10-speed Automatic",
         "drivetrain": "All-Wheel Drive"
@@ -6907,7 +6907,7 @@
       "categoryId": 8,
       "year": 2023,
       "specifications": {
-        "engine": "3.5L V6",
+        "engine": "Electric",
         "horsepower": 352,
         "transmission": "DCT",
         "drivetrain": "Rear-Wheel Drive"
@@ -7215,7 +7215,7 @@
       "categoryId": 8,
       "year": 2024,
       "specifications": {
-        "engine": "1.5L Inline-4",
+        "engine": "Electric",
         "horsepower": 651,
         "transmission": "CVT",
         "drivetrain": "All-Wheel Drive"
@@ -7355,7 +7355,7 @@
       "categoryId": 7,
       "year": 2024,
       "specifications": {
-        "engine": "3.5L V6",
+        "engine": "Electric",
         "horsepower": 550,
         "transmission": "7-speed Manual",
         "drivetrain": "All-Wheel Drive"
@@ -7439,7 +7439,7 @@
       "categoryId": 8,
       "year": 2025,
       "specifications": {
-        "engine": "2.5L Inline-4",
+        "engine": "Electric",
         "horsepower": 591,
         "transmission": "6-speed Automatic",
         "drivetrain": "Front-Wheel Drive"
@@ -7467,10 +7467,10 @@
       "categoryId": 7,
       "year": 2025,
       "specifications": {
-        "engine": "3.5L V6",
+        "engine": "Electric",
         "horsepower": 439,
-        "transmission": "6-speed Automatic",
-        "drivetrain": "Front-Wheel Drive"
+        "transmission": "Automatic",
+        "drivetrain": "All-Wheel Drive"
       },
       "image": "default-image.jpg"
     },
@@ -7607,10 +7607,10 @@
       "categoryId": 8,
       "year": 2019,
       "specifications": {
-        "engine": "5.0L V8",
+        "engine": "Electric",
         "horsepower": 580,
-        "transmission": "CVT",
-        "drivetrain": "Front-Wheel Drive"
+        "transmission": "Automatic",
+        "drivetrain": "All-Wheel Drive"
       },
       "image": "default-image.jpg"
     },
@@ -7691,7 +7691,7 @@
       "categoryId": 8,
       "year": 2017,
       "specifications": {
-        "engine": "2.0L Inline-4",
+        "engine": "Electric",
         "horsepower": 526,
         "transmission": "7-speed Manual",
         "drivetrain": "Rear-Wheel Drive"
@@ -7719,10 +7719,10 @@
       "categoryId": 2,
       "year": 2025,
       "specifications": {
-        "engine": "3.5L V6",
+        "engine": "Electric",
         "horsepower": 171,
-        "transmission": "10-speed Automatic",
-        "drivetrain": "Rear-Wheel Drive"
+        "transmission": "Automatic",
+        "drivetrain": "All-Wheel Drive"
       },
       "image": "default-image.jpg"
     },
@@ -7831,7 +7831,7 @@
       "categoryId": 8,
       "year": 2026,
       "specifications": {
-        "engine": "3.5L V6",
+        "engine": "Electric",
         "horsepower": 655,
         "transmission": "7-speed Manual",
         "drivetrain": "Rear-Wheel Drive"
@@ -7859,7 +7859,7 @@
       "categoryId": 8,
       "year": 2016,
       "specifications": {
-        "engine": "2.5L Inline-4",
+        "engine": "Electric",
         "horsepower": 408,
         "transmission": "7-speed Manual",
         "drivetrain": "Front-Wheel Drive"
@@ -8041,7 +8041,7 @@
       "categoryId": 8,
       "year": 2025,
       "specifications": {
-        "engine": "3.0L V6",
+        "engine": "Electric",
         "horsepower": 655,
         "transmission": "8-speed Automatic",
         "drivetrain": "Rear-Wheel Drive"
@@ -8181,10 +8181,10 @@
       "categoryId": 5,
       "year": 2025,
       "specifications": {
-        "engine": "5.0L V8",
+        "engine": "Electric",
         "horsepower": 479,
-        "transmission": "7-speed Manual",
-        "drivetrain": "Front-Wheel Drive"
+        "transmission": "Automatic",
+        "drivetrain": "All-Wheel Drive"
       },
       "image": "default-image.jpg"
     },
@@ -8307,7 +8307,7 @@
       "categoryId": 8,
       "year": 2018,
       "specifications": {
-        "engine": "1.5L Inline-4",
+        "engine": "Electric",
         "horsepower": 574,
         "transmission": "8-speed Automatic",
         "drivetrain": "Rear-Wheel Drive"
@@ -8405,7 +8405,7 @@
       "categoryId": 8,
       "year": 2021,
       "specifications": {
-        "engine": "3.5L V6",
+        "engine": "Electric",
         "horsepower": 664,
         "transmission": "9-speed Automatic",
         "drivetrain": "All-Wheel Drive"
@@ -8489,7 +8489,7 @@
       "categoryId": 8,
       "year": 2021,
       "specifications": {
-        "engine": "2.5L Inline-4",
+        "engine": "Electric",
         "horsepower": 619,
         "transmission": "10-speed Automatic",
         "drivetrain": "All-Wheel Drive"
@@ -8573,10 +8573,10 @@
       "categoryId": 6,
       "year": 2020,
       "specifications": {
-        "engine": "2.5L Inline-4",
+        "engine": "Electric",
         "horsepower": 348,
-        "transmission": "6-speed Manual",
-        "drivetrain": "Front-Wheel Drive"
+        "transmission": "Automatic",
+        "drivetrain": "All-Wheel Drive"
       },
       "image": "default-image.jpg"
     },
@@ -8881,10 +8881,10 @@
       "categoryId": 10,
       "year": 2018,
       "specifications": {
-        "engine": "2.0L Inline-4",
+        "engine": "Electric",
         "horsepower": 326,
-        "transmission": "10-speed Automatic",
-        "drivetrain": "Rear-Wheel Drive"
+        "transmission": "Automatic",
+        "drivetrain": "All-Wheel Drive"
       },
       "image": "default-image.jpg"
     },
@@ -8951,7 +8951,7 @@
       "categoryId": 8,
       "year": 2026,
       "specifications": {
-        "engine": "1.5L Inline-4",
+        "engine": "Electric",
         "horsepower": 226,
         "transmission": "DCT",
         "drivetrain": "Front-Wheel Drive"
@@ -9079,8 +9079,8 @@
       "specifications": {
         "engine": "Electric",
         "horsepower": 314,
-        "transmission": "6-speed Manual",
-        "drivetrain": "Front-Wheel Drive"
+        "transmission": "Automatic",
+        "drivetrain": "All-Wheel Drive"
       },
       "image": "default-image.jpg"
     },
@@ -9147,7 +9147,7 @@
       "categoryId": 8,
       "year": 2015,
       "specifications": {
-        "engine": "5.0L V8",
+        "engine": "Electric",
         "horsepower": 252,
         "transmission": "CVT",
         "drivetrain": "Front-Wheel Drive"
@@ -9427,10 +9427,10 @@
       "categoryId": 4,
       "year": 2025,
       "specifications": {
-        "engine": "3.0L V6",
+        "engine": "Electric",
         "horsepower": 530,
-        "transmission": "8-speed Automatic",
-        "drivetrain": "Rear-Wheel Drive"
+        "transmission": "Automatic",
+        "drivetrain": "All-Wheel Drive"
       },
       "image": "default-image.jpg"
     },
@@ -9455,7 +9455,7 @@
       "categoryId": 1,
       "year": 2016,
       "specifications": {
-        "engine": "2.0L Inline-4",
+        "engine": "Electric",
         "horsepower": 364,
         "transmission": "DCT",
         "drivetrain": "Front-Wheel Drive"
@@ -9525,7 +9525,7 @@
       "categoryId": 8,
       "year": 2024,
       "specifications": {
-        "engine": "2.0L Inline-4",
+        "engine": "Electric",
         "horsepower": 613,
         "transmission": "8-speed Automatic",
         "drivetrain": "Front-Wheel Drive"
@@ -9609,7 +9609,7 @@
       "categoryId": 8,
       "year": 2024,
       "specifications": {
-        "engine": "1.5L Inline-4",
+        "engine": "Electric",
         "horsepower": 121,
         "transmission": "6-speed Automatic",
         "drivetrain": "All-Wheel Drive"
@@ -9763,7 +9763,7 @@
       "categoryId": 8,
       "year": 2021,
       "specifications": {
-        "engine": "3.5L V6",
+        "engine": "Electric",
         "horsepower": 185,
         "transmission": "7-speed Manual",
         "drivetrain": "Rear-Wheel Drive"
@@ -9819,7 +9819,7 @@
       "categoryId": 8,
       "year": 2025,
       "specifications": {
-        "engine": "3.5L V6",
+        "engine": "Electric",
         "horsepower": 604,
         "transmission": "7-speed Manual",
         "drivetrain": "All-Wheel Drive"
@@ -9875,7 +9875,7 @@
       "categoryId": 8,
       "year": 2025,
       "specifications": {
-        "engine": "3.5L V6",
+        "engine": "Electric",
         "horsepower": 521,
         "transmission": "DCT",
         "drivetrain": "Rear-Wheel Drive"
@@ -10015,7 +10015,7 @@
       "categoryId": 8,
       "year": 2024,
       "specifications": {
-        "engine": "2.5L Inline-4",
+        "engine": "Electric",
         "horsepower": 647,
         "transmission": "7-speed Manual",
         "drivetrain": "Front-Wheel Drive"
@@ -10101,7 +10101,7 @@
       "specifications": {
         "engine": "Electric",
         "horsepower": 117,
-        "transmission": "10-speed Automatic",
+        "transmission": "Automatic",
         "drivetrain": "All-Wheel Drive"
       },
       "image": "default-image.jpg"
@@ -10155,7 +10155,7 @@
       "categoryId": 8,
       "year": 2026,
       "specifications": {
-        "engine": "1.5L Inline-4",
+        "engine": "Electric",
         "horsepower": 652,
         "transmission": "5-speed Manual",
         "drivetrain": "Rear-Wheel Drive"
@@ -10225,7 +10225,7 @@
       "categoryId": 8,
       "year": 2025,
       "specifications": {
-        "engine": "5.0L V8",
+        "engine": "Electric",
         "horsepower": 428,
         "transmission": "9-speed Automatic",
         "drivetrain": "Rear-Wheel Drive"
@@ -10435,7 +10435,7 @@
       "categoryId": 9,
       "year": 2016,
       "specifications": {
-        "engine": "5.0L V8",
+        "engine": "Electric",
         "horsepower": 383,
         "transmission": "5-speed Manual",
         "drivetrain": "Rear-Wheel Drive"
@@ -10505,7 +10505,7 @@
       "categoryId": 7,
       "year": 2019,
       "specifications": {
-        "engine": "5.0L V8",
+        "engine": "Electric",
         "horsepower": 487,
         "transmission": "6-speed Manual",
         "drivetrain": "Rear-Wheel Drive"
@@ -10715,7 +10715,7 @@
       "categoryId": 8,
       "year": 2021,
       "specifications": {
-        "engine": "3.5L V6",
+        "engine": "Electric",
         "horsepower": 453,
         "transmission": "8-speed Automatic",
         "drivetrain": "Rear-Wheel Drive"
@@ -10729,7 +10729,7 @@
       "categoryId": 8,
       "year": 2018,
       "specifications": {
-        "engine": "2.0L Inline-4",
+        "engine": "Electric",
         "horsepower": 255,
         "transmission": "7-speed Automatic",
         "drivetrain": "All-Wheel Drive"
@@ -10925,7 +10925,7 @@
       "categoryId": 1,
       "year": 2021,
       "specifications": {
-        "engine": "3.5L V6",
+        "engine": "Electric",
         "horsepower": 590,
         "transmission": "CVT",
         "drivetrain": "All-Wheel Drive"
@@ -10995,7 +10995,7 @@
       "categoryId": 4,
       "year": 2023,
       "specifications": {
-        "engine": "2.0L Inline-4",
+        "engine": "Electric",
         "horsepower": 295,
         "transmission": "6-speed Automatic",
         "drivetrain": "All-Wheel Drive"
@@ -11233,10 +11233,10 @@
       "categoryId": 9,
       "year": 2022,
       "specifications": {
-        "engine": "2.5L Inline-4",
+        "engine": "Electric",
         "horsepower": 507,
-        "transmission": "9-speed Automatic",
-        "drivetrain": "Rear-Wheel Drive"
+        "transmission": "Automatic",
+        "drivetrain": "All-Wheel Drive"
       },
       "image": "default-image.jpg"
     },
@@ -11247,7 +11247,7 @@
       "categoryId": 8,
       "year": 2025,
       "specifications": {
-        "engine": "2.0L Inline-4",
+        "engine": "Electric",
         "horsepower": 112,
         "transmission": "5-speed Manual",
         "drivetrain": "Front-Wheel Drive"
@@ -11443,7 +11443,7 @@
       "categoryId": 8,
       "year": 2025,
       "specifications": {
-        "engine": "1.5L Inline-4",
+        "engine": "Electric",
         "horsepower": 673,
         "transmission": "8-speed Automatic",
         "drivetrain": "Rear-Wheel Drive"
@@ -11541,10 +11541,10 @@
       "categoryId": 8,
       "year": 2025,
       "specifications": {
-        "engine": "3.5L V6",
+        "engine": "Electric",
         "horsepower": 528,
-        "transmission": "5-speed Manual",
-        "drivetrain": "Rear-Wheel Drive"
+        "transmission": "Automatic",
+        "drivetrain": "All-Wheel Drive"
       },
       "image": "default-image.jpg"
     },
@@ -11569,10 +11569,10 @@
       "categoryId": 2,
       "year": 2021,
       "specifications": {
-        "engine": "1.5L Inline-4",
+        "engine": "Electric",
         "horsepower": 309,
-        "transmission": "7-speed Manual",
-        "drivetrain": "Front-Wheel Drive"
+        "transmission": "Automatic",
+        "drivetrain": "All-Wheel Drive"
       },
       "image": "default-image.jpg"
     },
@@ -11667,9 +11667,9 @@
       "categoryId": 4,
       "year": 2021,
       "specifications": {
-        "engine": "3.5L V6",
+        "engine": "Electric",
         "horsepower": 426,
-        "transmission": "DCT",
+        "transmission": "Automatic",
         "drivetrain": "All-Wheel Drive"
       },
       "image": "default-image.jpg"
@@ -11863,7 +11863,7 @@
       "categoryId": 1,
       "year": 2016,
       "specifications": {
-        "engine": "2.5L Inline-4",
+        "engine": "Electric",
         "horsepower": 214,
         "transmission": "9-speed Automatic",
         "drivetrain": "Front-Wheel Drive"
@@ -11877,7 +11877,7 @@
       "categoryId": 8,
       "year": 2024,
       "specifications": {
-        "engine": "3.0L V6",
+        "engine": "Electric",
         "horsepower": 204,
         "transmission": "8-speed Automatic",
         "drivetrain": "Front-Wheel Drive"
@@ -12045,7 +12045,7 @@
       "categoryId": 8,
       "year": 2023,
       "specifications": {
-        "engine": "2.5L Inline-4",
+        "engine": "Electric",
         "horsepower": 688,
         "transmission": "9-speed Automatic",
         "drivetrain": "All-Wheel Drive"
@@ -12101,7 +12101,7 @@
       "categoryId": 8,
       "year": 2024,
       "specifications": {
-        "engine": "3.0L V6",
+        "engine": "Electric",
         "horsepower": 244,
         "transmission": "6-speed Automatic",
         "drivetrain": "Rear-Wheel Drive"
@@ -12117,8 +12117,8 @@
       "specifications": {
         "engine": "Electric",
         "horsepower": 164,
-        "transmission": "DCT",
-        "drivetrain": "Rear-Wheel Drive"
+        "transmission": "Automatic",
+        "drivetrain": "All-Wheel Drive"
       },
       "image": "default-image.jpg"
     },
@@ -12171,10 +12171,10 @@
       "categoryId": 2,
       "year": 2025,
       "specifications": {
-        "engine": "3.0L V6",
+        "engine": "Electric",
         "horsepower": 659,
-        "transmission": "7-speed Manual",
-        "drivetrain": "Rear-Wheel Drive"
+        "transmission": "Automatic",
+        "drivetrain": "All-Wheel Drive"
       },
       "image": "default-image.jpg"
     },
@@ -12185,7 +12185,7 @@
       "categoryId": 8,
       "year": 2018,
       "specifications": {
-        "engine": "3.0L V6",
+        "engine": "Electric",
         "horsepower": 294,
         "transmission": "8-speed Automatic",
         "drivetrain": "All-Wheel Drive"
@@ -12437,10 +12437,10 @@
       "categoryId": 4,
       "year": 2018,
       "specifications": {
-        "engine": "5.0L V8",
+        "engine": "Electric",
         "horsepower": 118,
-        "transmission": "9-speed Automatic",
-        "drivetrain": "Rear-Wheel Drive"
+        "transmission": "Automatic",
+        "drivetrain": "All-Wheel Drive"
       },
       "image": "default-image.jpg"
     },
@@ -12479,9 +12479,9 @@
       "categoryId": 4,
       "year": 2017,
       "specifications": {
-        "engine": "3.0L V6",
+        "engine": "Electric",
         "horsepower": 688,
-        "transmission": "7-speed Automatic",
+        "transmission": "Automatic",
         "drivetrain": "All-Wheel Drive"
       },
       "image": "default-image.jpg"
@@ -12521,7 +12521,7 @@
       "categoryId": 8,
       "year": 2022,
       "specifications": {
-        "engine": "5.0L V8",
+        "engine": "Electric",
         "horsepower": 466,
         "transmission": "8-speed Automatic",
         "drivetrain": "All-Wheel Drive"
@@ -12633,7 +12633,7 @@
       "categoryId": 8,
       "year": 2022,
       "specifications": {
-        "engine": "3.5L V6",
+        "engine": "Electric",
         "horsepower": 385,
         "transmission": "CVT",
         "drivetrain": "All-Wheel Drive"
@@ -12703,7 +12703,7 @@
       "categoryId": 8,
       "year": 2017,
       "specifications": {
-        "engine": "3.0L V6",
+        "engine": "Electric",
         "horsepower": 390,
         "transmission": "7-speed Manual",
         "drivetrain": "Front-Wheel Drive"
@@ -12941,7 +12941,7 @@
       "categoryId": 8,
       "year": 2020,
       "specifications": {
-        "engine": "5.0L V8",
+        "engine": "Electric",
         "horsepower": 211,
         "transmission": "10-speed Automatic",
         "drivetrain": "Front-Wheel Drive"
@@ -12955,7 +12955,7 @@
       "categoryId": 8,
       "year": 2025,
       "specifications": {
-        "engine": "3.5L V6",
+        "engine": "Electric",
         "horsepower": 651,
         "transmission": "6-speed Automatic",
         "drivetrain": "All-Wheel Drive"
@@ -12971,8 +12971,8 @@
       "specifications": {
         "engine": "Electric",
         "horsepower": 175,
-        "transmission": "DCT",
-        "drivetrain": "Front-Wheel Drive"
+        "transmission": "Automatic",
+        "drivetrain": "All-Wheel Drive"
       },
       "image": "default-image.jpg"
     }
